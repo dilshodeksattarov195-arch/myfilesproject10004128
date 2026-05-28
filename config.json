@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesender",
+        "uuid": 23273664,
+        "checksum": "mj3z2u"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
